@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "id": "8e9e",
+      "name": "Hamburguer de Queijo",
+      "description": "Queijo, Tomate, Cebola, Picles",
+      "price": "12.49",
+      "imageUrl": "sanduichequeijo.jpg",
+      "categoryId": "2",
+      "stock": "10",
+      "createdAt": "2024-05-17"
+    }
+  ],
+  "categories": [
+    {
+      "id": "28db",
+      "name": "Álcool",
+      "imageUrl": "alcool1.jpg"
+    }
+  ]
+}
